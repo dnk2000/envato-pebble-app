@@ -1,0 +1,21 @@
+{
+    "author": "denis.ilyasov@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "envato",
+    "pebble": {
+        "displayName": "Envato",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "598e55bd-8fbf-4dd9-980a-28087bdf7c9a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
